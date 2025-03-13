@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+lerna-debug.log
+
+# Environment files
+.env
+.env.test
+.custom-env
+
+# Cache files
+.yarn/cache
+.yarn/unplugged
+.yarn/install-state.gz
+.eslintcache
+.cache
+.parcel-cache
+.npm
+
+# VS Code
+.vscode-test
+.vscode
